@@ -9,4 +9,4 @@ This is my first project in Qt so if you find any bugs of glitches do not hesita
 ![image](https://user-images.githubusercontent.com/87282156/125330882-96f8c100-e347-11eb-86f3-6835e9e807df.png)
 
 # Bug Reporting
-If you find any bugs or glitches don't hesitate to tell us, you can contact us on our discord server: [url](https://discord.gg/R7ryCF988P)
+If you find any bugs or glitches don't hesitate to tell us, you can contact us on our discord server: [Ecstasy Corp. Official Discord Server](https://discord.gg/R7ryCF988P)
