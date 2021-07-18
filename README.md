@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/87282156/126066082-28a8b68f-49bc-4b3c-a7f8-3607b4c6eac3.png)
 
 
-Ecstasy Editor, a notepad fully built in Qt; it is still in development and not even at the Pre-Alpha but I wanted to share this with you. I would like to say THANK YOU to @fraaaaa4 for helping us with the design and giving us ideas for the notepad.
+Ecstasy Editor, a notepad fully built in Qt; it is still in development but I wanted to share this with you. I would like to say THANK YOU to @fraaaaa4 for helping us with the design and giving us ideas for the notepad.
 
 It was first set as a project to learn Qt framework but then I liked it so much that I decided to make it real.
 This is my first project in Qt so if you find any bugs of glitches do not hesitate to tell me! :)
