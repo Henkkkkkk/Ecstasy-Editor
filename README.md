@@ -1,7 +1,6 @@
 # Ecstasy Editor
 
-![image](https://user-images.githubusercontent.com/87282156/128174562-34116af9-6458-4f63-a50b-992e88aed684.png)
-
+![image](https://user-images.githubusercontent.com/87282156/129170510-ddf08e07-6218-4db5-8bd6-73296017264d.png)
 
 Ecstasy Editor, a notepad fully built in Qt. I would like to say THANK YOU to @fraaaaa4 for helping us with the design and giving us ideas for the notepad.
 
