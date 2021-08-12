@@ -15,7 +15,5 @@ Special thanks to @fraaaaa4, creator of Starboy Notepad, go give it a check!
 It was first set as a project to learn Qt framework but then I liked it so much that I decided to make it real.
 This is my first project in Qt so if you find any bugs of glitches do not hesitate to tell me! :)
 
-![builtwithqt](https://user-images.githubusercontent.com/87282156/129181144-6c16f321-4b73-4217-8b1d-e562ff7554d0.png)
-
 # Bug Reporting
 If you find any bugs or glitches don't hesitate to tell us, you can contact us on our discord server: [Ecstasy Corp. Official Discord Server](https://discord.gg/R7ryCF988P) or you can use Issues section in GitHub.
